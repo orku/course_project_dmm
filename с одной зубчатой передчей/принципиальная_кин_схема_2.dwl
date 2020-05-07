@@ -1,3 +1,0 @@
-asus
-LAPTOP-VDOEU2V2 
-7 мая 2020 г.  15:00:37
