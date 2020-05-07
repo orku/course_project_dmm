@@ -1,0 +1,71 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:с 1 листом ВО-Лист1]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\с 1 листом ВО.dwg
+Layout=Лист1
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\с 1 листом ВО.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:с 1 листом ВО-Лист3]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\с 1 листом ВО.dwg
+Layout=Лист3
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\с 1 листом ВО.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:с 1 листом ВО-Лист4]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\с 1 листом ВО.dwg
+Layout=Лист4
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\с 1 листом ВО.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:схема сборки-Лист1]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\схема сборки.dwg
+Layout=Лист1
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\схема сборки.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\печать на консу 08.05.2020\схема сборки.pdf
+OUT=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\печать на консу 08.05.2020\
+PWD=
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<ACADMPP>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
