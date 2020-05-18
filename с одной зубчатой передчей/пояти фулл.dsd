@@ -1,0 +1,109 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:с 1 листом ВО_1_5252-Лист1]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\с 1 листом ВО_1_5252.dwg
+Layout=Лист1
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\с 1 листом ВО_1_5252.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:с 1 листом ВО_1_5252-Лист3]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\с 1 листом ВО_1_5252.dwg
+Layout=Лист3
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\с 1 листом ВО_1_5252.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:с 1 листом ВО_1_5252-Лист4]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\с 1 листом ВО_1_5252.dwg
+Layout=Лист4
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\с 1 листом ВО_1_5252.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:габаритный_1_11322-Лист1]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\габаритный_1_11322.dwg
+Layout=Лист1
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\габаритный_1_11322.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:вал-Лист1]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\вал.dwg
+Layout=Лист1
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\вал.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:плита 1-Лист1]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\плита 1.dwg
+Layout=Лист1
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\плита 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:упор-Лист1]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\упор.dwg
+Layout=Лист1
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\упор.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Чертеж пружины-Лист1]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\Чертеж пружины.dwg
+Layout=Лист1
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\Чертеж пружины.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:чертёж стойки-Лист1]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\чертёж стойки.dwg
+Layout=Лист1
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\чертёж стойки.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\asus\Documents\чертёж стойки.pdf
+OUT=C:\Users\asus\Documents\
+PWD=
+[MRU Sheet List]
+MRU=3
+File0=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\во и остальные большие чертежи в правильном порядке.dsd
+File1=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\во и остальные большие чертежи.dsd
+File2=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\Спецификация.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<ACADMPP>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
