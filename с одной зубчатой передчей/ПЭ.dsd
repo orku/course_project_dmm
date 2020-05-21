@@ -1,0 +1,59 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:Перень элементов-Лист1]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\Перень элементов.dwg
+Layout=Лист1
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\Перень элементов.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Перень элементов-Лист2]
+DWG=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\Перень элементов.dwg
+Layout=Лист2
+Setup=
+OriginalSheetPath=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\Перень элементов.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\финишная прямая\на предзащиту\Перень элементов.pdf
+OUT=C:\Users\asus\Documents\
+PWD=
+[MRU Sheet List]
+MRU=2
+File0=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\печать на предзащиту.dsd
+File1=C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\пояти фулл.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<ACADMPP>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
