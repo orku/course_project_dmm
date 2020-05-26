@@ -14,3 +14,5 @@ C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\v
 C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\val-Статический анализ 3
 C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\val\val_2-Статический анализ 1
 C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\val\val_2-Статический анализ 1
+C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\val\val_2-Статический анализ 2
+C:\Users\asus\OneDrive\Курсач ДММ\course_project_dmm\с одной зубчатой передчей\val\val_2-Статический анализ 2
